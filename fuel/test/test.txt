@@ -1,1 +1,4 @@
 this gas station is for 4wheelers and 2wheelers
+sumo,scorpio,safari,venue
+rx100,ktm
+
