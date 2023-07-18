@@ -1,3 +1,4 @@
 petrol
 deisel
 gas
+sumo,scarpiosafari,venue
